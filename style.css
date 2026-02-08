@@ -114,6 +114,25 @@ body {
   filter: drop-shadow(0 0 6px rgba(255, 140, 0, 0.55)) drop-shadow(0 0 14px rgba(255, 140, 0, 0.25));
 }
 
+#grid-game-app .game-brandmark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 26px;
+  transform: none;
+}
+
+#grid-game-app .game-logo-img {
+  height: 26px;
+  width: auto;
+  max-width: 26px;
+  display: block;
+  object-fit: contain;
+  image-rendering: auto;
+  transform: none;
+}
+
 #grid-game-app .cyber-title {
   font-weight: 800;
   letter-spacing: -0.02em;
