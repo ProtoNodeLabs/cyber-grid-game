@@ -1,5 +1,5 @@
 {
-  "name": "pnl-cyber-grid-game",
+  "name": "cyber-grid-game",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -16,4 +16,5 @@
     "vite": "^7.3.1"
   }
 }
+
 
