@@ -2,7 +2,7 @@
 
 A neon cyberpunk falling-block puzzle game playable in the browser. Built with vanilla JavaScript, HTML5 Canvas, and Vite — no frameworks, no dependencies beyond the build tool.
 
-**[Play it live →](https://proto-nodelabs.com/cyber-grid-game/)**
+**[Play it live →](https://protonodelabs.com/cyber-grid-game/)**
 
 ![Cyber Grid Game](assets/background_img.png)
 
@@ -72,4 +72,4 @@ Not affiliated with or endorsed by Tetris Holding / The Tetris Company.
 
 ---
 
-Built by [ProtoNodeLabs](https://proto-nodelabs.com).
+Built by [ProtoNodeLabs](https://protonodelabs.com).
